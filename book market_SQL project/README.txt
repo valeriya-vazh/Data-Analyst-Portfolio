@@ -1,1 +1,0 @@
-This is a graduation project made for Yandex.Practicum Data Analyst program based on a sample data from a reading app.The data itself is stored in the database and reached with the help of SQLAlchemy tool.Please feel free to submit issues and pull requests if you’ve found any bugs and— enjoy! 
